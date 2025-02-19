@@ -2,11 +2,8 @@
 
 ----
 
-Meu nome é Angel Guassú, tenho 16 anos, e estou cursando atualmente em desenvolvimento de Sistemas, sou mais chegado a parte de Back-End.
-
-- 💻 Tenho focado em python, e estou me envolvendo cada vez mais nesse meio.
-- 👨🏾‍💻 Atualmente estou cursando no Senai, Desenvolvimento de Sistemas ½.
-- 👥 Gosto de conversar sobre Tecnologias.
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/kyronsatt/kyronsatt/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
+&nbsp;&nbsp;&nbsp;
 
 ----
 
