@@ -18,8 +18,7 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
   <img width="8" />
-  <img src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fhub.docker.com%2F_%2Fpython&psig=AOvVaw26euKk9ZwH1sdG8X6nfXVm&ust=1740058919644000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPi1ueLuz4sDFQAAAAAdAAAAABAE" height="25" alt="css3 logo" 
-  />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhub.docker.com%2F_%2Fpython&psig=AOvVaw26euKk9ZwH1sdG8X6nfXVm&ust=1740058919644000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPi1ueLuz4sDFQAAAAAdAAAAABAE" height="25" alt="css3 logo"  />
 </div>
 
 ----
