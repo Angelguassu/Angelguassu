@@ -2,7 +2,7 @@
 
 ----
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/kyronsatt/kyronsatt/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/Angelguassu/Angelguassu/blob/9853994e8eec7de3fe0a525f7d7807d8e77aabb2/1.png" />
 &nbsp;&nbsp;&nbsp;
 
 ----
