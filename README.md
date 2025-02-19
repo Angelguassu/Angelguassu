@@ -44,16 +44,6 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Angelguassu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<p align="left">Obrigado por ver até aqui, se quiser entrar em contato, está logo abaixo </p>
-
-<a href="mailto:angelguassu6@gmail.com@gmail.com">
-  <img height="30em" src="https://img.shields.io/badge/EMAIL-BB001B?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.instagram.com/guassuventura/" target="blank">
-  <img height="30em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
