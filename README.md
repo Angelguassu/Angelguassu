@@ -9,7 +9,7 @@
 <img loading="lazy" height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelguassu&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="185em" src="https://github-readme-stats.vercel.app/api?username=Angelguassu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
+<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
   <img width="8" />
