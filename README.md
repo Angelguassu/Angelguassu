@@ -1,6 +1,7 @@
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/Angelguassu/Angelguassu/blob/9853994e8eec7de3fe0a525f7d7807d8e77aabb2/1.png" />
 &nbsp;&nbsp;&nbsp;
 ----
+
 #### Minha stack do dia a dia: 
 <div>
   <img height="30em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
